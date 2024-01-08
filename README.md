@@ -3,6 +3,6 @@ and
 Cats
 are
 the
-best
+worst
 pets
 currently!
