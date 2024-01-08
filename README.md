@@ -1,6 +1,8 @@
 Basketball
-is
+and
+Badminton
+are
 the
 best
-sport
+sports
 ever!
