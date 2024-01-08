@@ -3,6 +3,6 @@ and
 Badminton
 are
 the
-best
+worst
 sports
 currently!
